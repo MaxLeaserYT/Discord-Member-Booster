@@ -43,7 +43,7 @@ cyan = Fore.CYAN
 gray = Fore.LIGHTBLACK_EX + Fore.WHITE
 reset = Fore.RESET
 
-generated = 0
+generated = 1000
 failed = 0
 cap_solved = 0
 proxy_error = 0
